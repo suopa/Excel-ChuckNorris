@@ -6,3 +6,5 @@ I have packaged the macro as .xlam Excel Add-In which adds nice icon on the ribb
 You can also use the code provided to run the macro without Add-In.
 
 NOTE: Doesn't work on Excel for Mac.
+
+Jokes are retrieved from API provided by: http://www.icndb.com
